@@ -37,7 +37,7 @@ mkdir projeto-crud
 cd projeto-crud
 ```
 
-### Passo 2: Criar ambiente virtual Python
+### Passo 2: Criar ambiente virtual Python (opcional)
 
 ```bash
 # Windows
