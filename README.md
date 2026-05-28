@@ -708,13 +708,9 @@ python manage.py runserver 8001
 
 ---
 
-## 📚 Próximos Passos
+## 📚 Boa Sorte
 
-1. **Adicionar autenticação** - Login de usuários
-2. **Filtros avançados** - Por data, status, etc
-3. **Paginação** - Mostrar 10 tarefas por página
-4. **Notificações** - Toast de sucesso/erro
-5. **Deploy** - Colocar no Heroku ou Vercel
+![Boa Sorte](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNzMDN0b3Jxc2NlaTE5N2R2cHB4MmZlNmM2MTl3dDdlYXF4djF3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L4HhVNOsxzsT6XFmWv/giphy.gif)
 
 ---
 
